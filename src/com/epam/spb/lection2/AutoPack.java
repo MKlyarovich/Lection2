@@ -26,8 +26,8 @@ public class AutoPack {
             Number n2 = 7.1;
             Number[] array = {71, 7.1, 7L};
             Integer i1 = (Integer) n1;
-            Integer i2 = (Integer) n2; // runtime error
-            Integer[] i3 = (Integer[]) array; // runtime error
+//            Integer i2 = (Integer) n2; // runtime error
+//            Integer[] i3 = (Integer[]) array; // runtime error
 
         }
     }
